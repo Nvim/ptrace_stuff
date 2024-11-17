@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/nix/store/3ix5h74n7ar9950vwzp4dxmil70pmx0k-gcc-wrapper-13.3.0/bin/gcc",
+      "-c",
+      "-std=c99",
+      "-pedantic",
+      "-Wall",
+      "-Wextra",
+      "-D_POSIX_C_SOURCE=200809",
+      "src/my_db/my_db.c"
+    ],
+    "directory": "/home/naim/Code/my_strace",
+    "file": "/home/naim/Code/my_strace/src/my_db/my_db.c"
+  }
+]
